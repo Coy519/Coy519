@@ -4,11 +4,11 @@
 - Email: 	baker.594@wright.edu
 
 ## Part 1 Answers
- mkdir DirA
- mkdir "Dir B"
- cd "Dir B"
- DirA is a better name because directory names without spaces are more consistent in the world. 
- mv "Dir B" DirB
+ 1. mkdir DirA
+ 2. mkdir "Dir B"
+ 3. cd "Dir B"
+ 4. DirA is a better name because directory names without spaces are more consistent in the world. 
+ 5. mv "Dir B" DirB
 
  ## Part 2 Answers
 
