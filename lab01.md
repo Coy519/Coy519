@@ -23,7 +23,7 @@
 ## Part 3 Answers
 
 1. cp DirA/test.txt DirA/.hiddentext.txt
-2. Command to view all files, including hidden files, in a directory: 
+2. ls -la
 
 
 ## Part 4 Answers
